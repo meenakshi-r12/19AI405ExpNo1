@@ -89,3 +89,11 @@ if __name__ == "__main__":
     agent.actuators = actuators
 
     agent.monitor()
+
+<H3>OUTPUT:</H3>
+
+<img width="373" height="64" alt="480885292-d5f69774-71b6-48e1-91ad-d09181b8c87a" src="https://github.com/user-attachments/assets/16920f0c-9401-43de-b383-89b7dd8b939d" />
+
+<H3>RESULT:</H3>
+
+Hence, the solution for the given AI problem is found.
